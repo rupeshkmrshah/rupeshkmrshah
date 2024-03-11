@@ -2,7 +2,7 @@
 # I'm Rupesh
 
 ## 👨‍💻 About Me
-Passionate WordPress Developer transitioning to the world of ReactJS or Frotend Development. I thrive on challenges and enjoy creating dynamic, interactive web applications. With a solid foundation in WordPress development, I'm now expanding my skill set to embrace the latest technologies in the frontend development.
+Passionate WordPress Developer transitioning to the world of ReactJS/FrontEnd Development. I thrive on challenges and enjoy creating dynamic, interactive web applications. With a solid foundation in WordPress development, I'm now expanding my skill set to embrace the latest technologies in the frontend development.
 
 ## 🚀 Current Focus
 🔍 Exploring the ReactJS ecosystem and mastering its concepts  
